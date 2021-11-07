@@ -4,10 +4,10 @@ import googleceshi as analyze
 import tweepy
 
 
-consumer_key = "nYEgZs6LnnNLSd8iA2Q2Rf5w0"
-consumer_secret = "5tzcEpKRCXqkrgNuDllGRJ29lmRqW6lHjmvSuLXLiJH5RVg5Da"
-access_key = "1440789160151826439-BFerR9hb6QX0RLDVl8rEBw9yp8fqst"
-access_secret = "oAy9lXxrdILDlOETri8jHpOqlVSwN95eWM4eKRL5H7tcr"
+consumer_key = "xxx"
+consumer_secret = "xxx"
+access_key = "xxx"
+access_secret = "xxx"
 
 
 def get_tweets(typein):
